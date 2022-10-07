@@ -19,7 +19,7 @@ main {
 .card {
   /* margin: 160px 720px; */
   max-width: 300px;
-  margin: 100px auto;
+  margin: 160px auto;
   padding: 10px;
   background: #fff;
   border-radius: var(--radius--);
