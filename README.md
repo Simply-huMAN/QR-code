@@ -1,6 +1,4 @@
 # QR-code
- - This is a simple website containing a QR code and a little text
- - This website is made for Frontend Mentor challenge
 
 # Front-end Style Guide  
 ## Layout  
